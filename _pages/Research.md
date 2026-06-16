@@ -8,7 +8,9 @@ author_profile: true
 Working papers
 --------------
 
-[**Robust Monetary Policy Under Shock Uncertainty**](https://www.dnb.nl/en/publications/research-publications/working-paper-2023/793-robust-monetary-policy-under-shock-uncertainty/) (2023) _DNB working paper_ with [_J.W. van den End_](https://www.dnb.nl/en/research/personal-pages/jan-willem-van-den-end/)
+[**Robust Monetary Policy Under Shock Uncertainty**](https://www.dnb.nl/en/publications/research-publications/working-paper-2023/793-robust-monetary-policy-under-shock-uncertainty/) (2023) _DNB working paper_ with [_J.W. van den End_](https://www.dnb.nl/en/research/personal-pages/jan-willem-van-den-end/) 
+
+[DNB wp version](https://www.dnb.nl/en/publications/research-publications/working-paper-2023/793-robust-monetary-policy-under-shock-uncertainty/) 
 
 We assess the robustness of monetary policy under shock uncertainty based on a novel empirical method. Shock uncertainty arises from the inability to observe the output gap in real time, by which the contribution of supply and demand shocks to inflation is unknown. We apply our method in a medium-scale Dynamic Stochastic General Equilibrium (DSGE) model to the recent inflation surge in the US. We find that robust monetary policy aimed at limiting extreme welfare losses under shock uncertainty should neither be too strong nor too mild, given the probability that supply shocks are a dominant driver of economic fluctuations. An overly strong response to inflation in supply driven scenarios is associated with large tail losses due to adverse output dynamics.
 
