@@ -8,7 +8,7 @@ author_profile: true
 Working papers
 --------------
 
-[**Robust Monetary Policy Under Shock Uncertainty**](https://www.dnb.nl/en/publications/research-publications/working-paper-2023/793-robust-monetary-policy-under-shock-uncertainty/) (2023) _DNB working paper_ with [_J.W. van den End_](https://www.dnb.nl/en/research/personal-pages/jan-willem-van-den-end/) 
+[**Robust Monetary Policy Under Shock Uncertainty**](/files/Carceller_vandenEnd_Rob_monetary_policy.pdf) (2023) _DNB working paper_ with [_J.W. van den End_](https://www.dnb.nl/en/research/personal-pages/jan-willem-van-den-end/) 
 
 [DNB wp version](https://www.dnb.nl/en/publications/research-publications/working-paper-2023/793-robust-monetary-policy-under-shock-uncertainty/) 
 
