@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a third year PhD candidate in Economics at the University of Lausanne (Unil) under the supervision of [Gianluca Benigno](https://sites.google.com/view/gianlucabenigno/home?authuser=0).
+Welcome! I am a third-year PhD candidate in Economics at the University of Lausanne (Unil) under the supervision of [Gianluca Benigno](https://sites.google.com/view/gianlucabenigno/home?authuser=0).
 
-My research interests lie in macro finance, I am particularly interested in broker/dealer frictions and NBFI impact in the financial sector and the broad macroeconomy.
+My research interests lie in macro-finance, I am particularly interested in the role of non-bank financial intermediaries and the implications for central bank policy.
 
-I hold an MSc in Economics from the University of Amsterdam, and completed the doctoral program of the [Study Centre Gerzensee](https://szgerzensee.ch/).
+I previously was a research assistant in [De Nederlandsche Bank](https://www.dnb.nl/en/research/), and completed the doctoral program of the [Study Centre Gerzensee](https://szgerzensee.ch/) in 2024.
 
 ## News
 -------------
