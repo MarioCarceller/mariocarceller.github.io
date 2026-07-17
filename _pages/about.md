@@ -11,7 +11,7 @@ Welcome! I am a third-year PhD candidate in Economics at the University of Lausa
 
 My research interests lie in macro-finance, I am particularly interested in the role of non-bank financial intermediaries and the implications for central bank policy.
 
-I previously was a research assistant in [De Nederlandsche Bank](https://www.dnb.nl/en/research/), and completed the doctoral program of the [Study Centre Gerzensee](https://szgerzensee.ch/) in 2024.
+I previously was a research assistant (pre-doc) in [De Nederlandsche Bank](https://www.dnb.nl/en/research/), and completed the doctoral program of the [Study Centre Gerzensee](https://szgerzensee.ch/) in 2024.
 
 ## News
 -------------
