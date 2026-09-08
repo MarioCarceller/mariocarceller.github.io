@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can access  my CV [here](/files/CV Mario Carceller.pdf), and my research days slides [here](/files/Presentation.pdf).
+You can access  my CV [here](/files/CV Mario Carceller.pdf).
